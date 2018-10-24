@@ -11,7 +11,7 @@ Clone or import to your IDE or text editor, and add 'assets' as resource folder
 (If you use IDEA or Eclipse, you can skip the second step)
 
 ## Running
-Find 'src/view_control/Main' to run the game
+Find ```src/view_control/Main``` to run the game
 
 ## Demo
 #### Start Screen
